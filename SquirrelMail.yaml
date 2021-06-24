@@ -16,7 +16,7 @@ requests:
     matchers:
       - type: word
         words:
-          - "SquirrelMail"
+          - "SquirrelMail version 1.4."
         part: body
 
 
